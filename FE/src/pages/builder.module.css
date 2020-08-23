@@ -1,0 +1,17 @@
+.container_builder {
+    padding-top: 50px;
+    padding-right: 80px;
+}
+.container_control {
+    min-height: 600px;
+}
+
+.textbox:hover {
+    border: 1px solid blue;
+}
+.text {
+    resize: none;
+    overflow: hidden;
+    min-height: 50px;
+    max-height: 100px;
+}
